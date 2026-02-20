@@ -36,17 +36,17 @@ http://localhost:3000
 ---
 ## Screenshots
 
-### Wallet Connected
-![Wallet Connected](wallet-connect.png)
+### Wallet Connection Request
+![Wallet Connection Request](wallet-request.png)
 
-### Balance Displayed
-![Balance Displayed](wallet-connected-balance.png)
+### Wallet Connected & Balance
+![Wallet Connected](wallet-connected-balance.png)
 
-### Successful Transaction
-![Successful Transaction](transaction-success.png)
+### Transaction Confirmation
+![Transaction Confirmation](transaction-confirmation.png)
 
-### Transaction Result Shown
-![Transaction Result](transaction-confirmation.png)
+### Transaction Successful
+![Transaction Successful](transaction-success.png)
 ---
 
 ## Tech Stack
