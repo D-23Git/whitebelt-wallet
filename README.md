@@ -37,7 +37,7 @@ http://localhost:3000
 ## Screenshots
 
 ### Wallet Connection Request
-![Wallet Connection Request](wallet-request.png)
+![Wallet Connection Request](wallet-confirmation.png)
 
 ### Wallet Connected & Balance
 ![Wallet Connected](wallet-connected-balance.png)
