@@ -38,17 +38,16 @@ http://localhost:3000
 ## Screenshots
 
 ### Wallet Connected
-![Wallet Connected](wallet-connect.png)
+![Wallet Connected](wallet-connected.png)
 
 ### Balance Displayed
-![Balance Displayed](wallet-connected.png)
+![Balance Displayed](wallet-proof.png)
 
 ### Successful Transaction
 ![Successful Transaction](transaction-success.png)
 
 ### Transaction Result Shown
-![Transaction Result](transaction-confirm.png)
-
+![Transaction Result](transaction-success.png)
 ---
 
 ## Tech Stack
