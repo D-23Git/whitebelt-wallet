@@ -20,11 +20,15 @@ The wallet connection requires user approval through the Freighter popup, and ev
 
 ## Setup Instructions (Run Locally)
 
-1. Install dependencies  
-npm install  
+1. Install dependencies
 
-2. Start the project  
-npm start  
+npm install
+
+
+2. Start the project
+
+npm start
+
 
 3. Open in browser  
 http://localhost:3000  
@@ -34,10 +38,10 @@ http://localhost:3000
 ## Screenshots
 
 ### Wallet Connected
-![Wallet Connected](wallet-connected.png)
+![Wallet Connected](wallet-connect.png)
 
 ### Balance Displayed
-![Balance Displayed](wallet-proof.png)
+![Balance Displayed](wallet-connected.png)
 
 ### Successful Transaction
 ![Successful Transaction](transaction-success.png)
