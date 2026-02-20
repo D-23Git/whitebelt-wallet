@@ -1,7 +1,7 @@
 # Stellar White Belt 🚀
 
 ## Project Description
-This project is a simple Stellar decentralized application (dApp) built using React + Vite.  
+This project is a simple Stellar decentralized application (dApp) built using React.  
 It connects to the Freighter wallet, displays the user public key and XLM balance, and allows sending XLM transactions on the Stellar Testnet.
 
 The wallet connection requires user approval through the Freighter popup, and every transaction must be confirmed by the user.
@@ -20,18 +20,18 @@ The wallet connection requires user approval through the Freighter popup, and ev
 
 ## Setup Instructions (Run Locally)
 
-1. Install dependencies  
+1. Install dependencies
 
 npm install
 
 
-2. Start the project  
+2. Start the project
 
 npm start
 
 
 3. Open in browser  
-http://localhost:5173
+http://localhost:3000  
 
 ---
 
@@ -52,7 +52,7 @@ http://localhost:5173
 ---
 
 ## Tech Stack
-- React + Vite  
+- React  
 - Stellar SDK  
 - Freighter Wallet  
-- Stellar Testnet 
+- Stellar Testnet
