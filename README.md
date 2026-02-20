@@ -34,20 +34,19 @@ npm start
 http://localhost:3000  
 
 ---
-
 ## Screenshots
 
 ### Wallet Connected
-![Wallet Connected](wallet-connected.png)
+![Wallet Connected](wallet-connect.png)
 
 ### Balance Displayed
-![Balance Displayed](wallet-proof.png)
+![Balance Displayed](wallet-connected-balance.png)
 
 ### Successful Transaction
 ![Successful Transaction](transaction-success.png)
 
 ### Transaction Result Shown
-![Transaction Result](transaction-success.png)
+![Transaction Result](transaction-confirmation.png)
 ---
 
 ## Tech Stack
