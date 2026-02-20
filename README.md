@@ -27,7 +27,7 @@ npm install
 
 2. Start the project  
 
-npm run dev
+npm start
 
 
 3. Open in browser  
