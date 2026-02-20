@@ -38,10 +38,10 @@ http://localhost:3000
 ## Screenshots
 
 ### Wallet Connected
-![Wallet Connected](wallet-connected.png)
+![Wallet Connected](wallet-connect.png)
 
 ### Balance Displayed
-![Balance Displayed](wallet-proof.png)
+![Balance Displayed](wallet-connected.png)
 
 ### Successful Transaction
 ![Successful Transaction](transaction-success.png)
@@ -55,4 +55,4 @@ http://localhost:3000
 - React  
 - Stellar SDK  
 - Freighter Wallet  
-- Stellar Testnet
+- Stellar Testnet 
